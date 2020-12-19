@@ -1,0 +1,5 @@
+.ionide
+.metals
+.vscode
+bin
+obj
